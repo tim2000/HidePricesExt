@@ -1,0 +1,22 @@
+{
+
+  "manifest_version": 2,
+  "name": "NoPricesExt",
+  "version": "1.0",
+
+  "description": "Remove prices from a website",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.ocarat.com/*"],
+      "css": ["hideprices.css"],
+      "run_at": "document_start"
+    }
+  ]
+
+}
+
