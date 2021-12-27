@@ -1,0 +1,14 @@
+.c-price__standard {
+    color: transparent;
+    user-select: none;
+}
+
+.c-product__price__promo {
+    color: transparent;
+    user-select: none;
+}
+
+.l-product__wrapper .l-product__details--info .c-product__price__promo span {
+    color: transparent;
+    user-select: none;
+}

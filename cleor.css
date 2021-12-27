@@ -1,0 +1,19 @@
+.products .product-item .product-item-info .price-box .price-final_price .price {
+    color: transparent;
+    user-select: none;
+}
+
+.products .product-item .product-item-info .price-box .price-final_price .price {
+    color: transparent;
+    user-select: none;
+}
+
+.price-container.price-final_price.tax.weee {
+    color: transparent;
+    user-select: none;
+}
+
+[class~="price-wrapper "] {
+    color: transparent;
+    user-select: none;
+}

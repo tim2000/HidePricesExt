@@ -1,0 +1,39 @@
+.prix-final {
+    color: transparent !important;
+    user-select: none;
+}
+
+.prix-barre {
+    color: transparent !important;
+    user-select: none;
+}
+
+#product-price {
+    color: transparent !important;
+    user-select: none;
+}
+
+.fiche-produit-wrapper #slider-related-products .item .product-price, .fiche-produit-wrapper #slider-complementary-products .item .product-price, .fiche-produit-wrapper #slider-musthave-products .item .product-price, .fiche-produit-wrapper #slider-lastvisited-products .item .product-price {
+    color: transparent !important;
+    user-select: none;
+}
+
+.fiche-produit-wrapper #slider-related-products .item .product-price.prix-barre .barre, .fiche-produit-wrapper #slider-complementary-products .item .product-price.prix-barre .barre, .fiche-produit-wrapper #slider-musthave-products .item .product-price.prix-barre .barre, .fiche-produit-wrapper #slider-lastvisited-products .item .product-price.prix-barre .barre {
+    color: transparent !important;
+    user-select: none;
+}
+
+.product__oldPrice {
+    color: transparent !important;
+    user-select: none;
+}
+
+.product__price {
+    color: transparent !important;
+    user-select: none;
+}
+
+.outprice {
+    color: transparent !important;
+    user-select: none;
+}

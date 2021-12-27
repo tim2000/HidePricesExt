@@ -13,7 +13,37 @@
   "content_scripts": [
     {
       "matches": ["*://*.ocarat.com/*"],
-      "css": ["hideprices.css"],
+      "css": ["ocarat.css"],
+      "run_at": "document_start"
+    },
+    {
+      "matches": ["*://*.juliendorcel.com/*"],
+      "css": ["juliendorcel.css"],
+      "run_at": "document_start"
+    },
+    {
+      "matches": ["*://*.cleor.com/*"],
+      "css": ["cleor.css"],
+      "run_at": "document_start"
+    },
+    {
+      "matches": ["*://*.histoiredor.com/*"],
+      "css": ["histoiredor.css"],
+      "run_at": "document_start"
+    },
+    {
+      "matches": ["*://*.maty.com/*"],
+      "css": ["maty.css"],
+      "run_at": "document_start"
+    },
+    {
+      "matches": ["*://*.pdpaola.com/*"],
+      "css": ["pdpaola.css"],
+      "run_at": "document_start"
+    },
+    {
+      "matches": ["*://*.marc-orian.com/*"],
+      "css": ["marc-orian.css"],
       "run_at": "document_start"
     }
   ]

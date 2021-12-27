@@ -1,0 +1,20 @@
+.old-price.product-price {
+    color: transparent;
+    user-select: none;
+}
+.price.product-price {
+    color: transparent;
+    user-select: none;
+}
+.oc_mensualite_price {
+    color: transparent;
+    user-select: none;
+}
+#our_price_display {
+    color: transparent;
+    user-select: none;
+}
+#old_price_display {
+    color: transparent;
+    user-select: none;
+}

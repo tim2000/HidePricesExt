@@ -1,0 +1,14 @@
+.money {
+    color: transparent;
+    user-select: none;
+}
+
+.data-price-wrapper {
+    color: transparent;
+    user-select: none;
+}
+
+#shopify-section-static-product-engraving-flagship > div.product .single-product-content .product-info .title-price > div, #shopify-section-static-product > div.product .single-product-content .product-info .title-price > div {
+    color: transparent;
+    user-select: none;
+}

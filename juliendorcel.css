@@ -1,0 +1,9 @@
+[itemprop="offers"] {
+    color: transparent;
+    user-select: none;
+}
+
+[class~="owl-stage-outer"] {
+    color: transparent;
+    user-select: none;
+}
