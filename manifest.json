@@ -45,6 +45,11 @@
       "matches": ["*://*.marc-orian.com/*"],
       "css": ["marc-orian.css"],
       "run_at": "document_start"
+    },
+    {
+      "matches": ["*://*.calabrune.com/*"],
+      "css": ["calabrune.css"],
+      "run_at": "document_start"
     }
   ]
 
